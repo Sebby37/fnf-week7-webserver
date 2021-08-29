@@ -10,3 +10,4 @@ The default browser for this is firefox developer edition. This is because I cou
 Windows may treat the compiled releases as a virus. This is due to the way it was compiled (through pyinstaller). If you don't want to use the executables, clone/download the repo and then download the fnf7.zip file in the releases tab and extract that to the folder the python files are located.
 
 **DO NOT CREATE ANY PULL REQUESTS OR ISSUES REQUESTING I ADD MODS, I WILL NOT ADD THEM!**
+**ALSO DO NOT CREATE ANY PULL REQUESTS OR ISSUES ABOUT FNF ITSELF, I CANNOT FIX OR ADD ANY OF THESE!**
